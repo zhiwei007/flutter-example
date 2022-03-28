@@ -1,5 +1,2 @@
-terminel:
-
-flutter packages pub run  build_runner build
-
+to show a fund list information
 
